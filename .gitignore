@@ -1,0 +1,36 @@
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.dll~
+*.so
+*.so~
+*.dylib
+*.dylib~
+*.test
+*.out
+
+# Go specific
+/bin/
+/pkg/
+/.vscode/
+/.idea/
+/*.prof
+*.prof
+coverage.txt
+coverage.html
+*.coverprofile
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
