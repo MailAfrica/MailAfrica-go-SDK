@@ -1,3 +1,3 @@
-module github.com/mailafrica/mailafrica-go-sdk
+module github.com/MailAfrica/go-sdk
 
 go 1.25

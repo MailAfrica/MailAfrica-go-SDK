@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mailafrica/mailafrica-go-sdk/internal/pjson"
+	"github.com/MailAfrica/go-sdk/internal/pjson"
 )
 
 const (

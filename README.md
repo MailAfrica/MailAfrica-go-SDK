@@ -2,14 +2,14 @@
 
 A professional, open-source Go SDK for the [MailAfrica](https://mailafrica.online) user-facing API.
 
-- **Module**: `github.com/mailafrica/mailafrica-go-sdk`
+- **Module**: `github.com/MailAfrica/go-sdk`
 - **Go version**: 1.25+
 - **License**: MIT
 
 ## Installation
 
 ```bash
-go get github.com/mailafrica/mailafrica-go-sdk
+go get github.com/MailAfrica/go-sdk
 ```
 
 ## Quickstart
@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mailafrica/mailafrica-go-sdk"
+	"github.com/MailAfrica/go-sdk"
 )
 
 func main() {
